@@ -2,7 +2,7 @@
 function App() {
   return (
     <div>
-      ㅋㅋ
+      아아ㅏㅏㅏ
     </div>
   );
 }
